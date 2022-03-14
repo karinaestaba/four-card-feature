@@ -35,4 +35,4 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 ## Author
 
 - Website - [Karina Estaba]
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/karinaestaba)
+- Frontend Mentor - [@karinaestaba](https://www.frontendmentor.io/profile/karinaestaba)
